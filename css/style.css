@@ -1,0 +1,32 @@
+html{display: flex;}
+body{
+    padding-top: 10px;
+    font-family: Arial, Calibri, sans-serif;
+    font-size: 15px;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    font-size: 1.5em;
+    padding: 5px;
+}
+
+button{
+    width: auto;
+    height: 1.3em;
+    margin-right: 3px;
+}
+
+input, select{
+    margin-left: 5px;
+}
+
+img{
+    width: 720px;
+    height: auto;
+}
+
+p {
+    font-size: 2em;
+}
